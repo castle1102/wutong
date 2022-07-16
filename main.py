@@ -23,8 +23,8 @@ sct_token = ""  # Sendkey
 # Ticket Stuff
 startSite = "SK"  # 始发站点
 endSite = "HKA"  # 目标站点
-startDate = "2022-04-20"  # 船票搜索日期
-endDate = "2022-04-30"
+startDate = "2022-09-18"  # 船票搜索日期
+endDate = "2022-09-20"
 show_available_only = True  # 只显示有票的日期
 # ==================================
 
@@ -96,7 +96,7 @@ bark_token = ""  # Bark推送ID
 # Ticket Stuff
 startSite = "SK"  # 始发站点
 endSite = "HKA"  # 目标站点
-startDate = "2021-08-1"  # 船票搜索日期
-endDate = "2021-08-30"
+startDate = "2022-09-18"  # 船票搜索日期
+endDate = "2022-09-20"
 show_available_only = True  # 只显示有票的日期
 # ==================================
