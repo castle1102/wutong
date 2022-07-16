@@ -45,7 +45,7 @@ if __name__ == '__main__':
         enable_gh_action = True  # 检测是否在GitHub Action中运行
         period = sys.argv[2].lstrip("--period=")
         if not period:
-            period = 30
+            period = 90
         else:
             period = str(period)    # Convert str to int
 
